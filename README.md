@@ -1,1 +1,2 @@
-# Tasks
+Tavukchuoglu Yekaterina
+Python
